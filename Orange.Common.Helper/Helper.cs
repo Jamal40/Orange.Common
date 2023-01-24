@@ -1,7 +1,6 @@
-﻿namespace Orange.Common.Helper
+﻿namespace Orange.Common;
+
+public static class Helper
 {
-    public static class Helper
-    {
-        public static string CoolText { get; set; } = "Cool Text";
-    }
+    public static string CoolText { get; set; } = "Cool Text";
 }
